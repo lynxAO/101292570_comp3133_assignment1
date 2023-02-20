@@ -1,0 +1,24 @@
+{
+  "name": "101292570_comp3133_Assignment1",
+  "version": "1.0.0",
+  "description": "Full Stack II Assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "AO 101292570",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "apollo-server-errors": "^3.3.1",
+    "apollo-server-express": "^3.11.1",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "graphql": "^16.6.0",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.2",
+    "path": "^0.12.7"
+  }
+}
